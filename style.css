@@ -1,35 +1,8 @@
 h1 {
-	font-family: Arial;
-	font-size: 45px;
-	color: #d4a00e
+	color: blue;
+	background-color: yellow;
 }
 
-body{
-	background-color: #fff;
-	color: #0c7769;
-	font-size: 50px;
-}
-
-p {
-	font-family: lucida;
-	font-size: 15px;
-}
-a {
-	font-family: lucida;
-	color: #000;
-	font-size: 16px;
-}
-
-h2{
-	font-family: Arial;
-	text-decoration: underline;
-	font-size: 30px;
-}
-
-div{
-
-	background-color: #c9fcbe;
-	width: 750px;
-	margin-left: auto;
-	margin-right: auto;
+h1, p {
+	color: orange;
 }
