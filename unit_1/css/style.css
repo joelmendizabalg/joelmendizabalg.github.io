@@ -1,34 +1,49 @@
 h1 {
 	font-family: Arial;
-	font-size: 45px;
-	color: #d4a00e
+	font-size: 30px;
+	color: #65676b;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#second {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.important {
+	font-size: 18px;
 }
 
 body{
 	background-color: #fff;
 	color: #0c7769;
-	font-size: 50px;
+	font-size: 15px;
 }
 
 p {
-	font-family: lucida;
+	font-family: "lucida console", monspace;
 	font-size: 15px;
 }
 a {
 	font-family: lucida;
 	color: #000;
-	font-size: 16px;
+	font-size: 15px;
+	font-style: italic;
 }
 
-h2{
-	font-family: Arial;
-	text-decoration: underline;
-	font-size: 30px;
+h3{
+	font-family: italic, sans-serif;
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: 50px;
+	text-align: center;
 }
 
 div{
 
-	background-color: #c9fcbe;
+	background-color: #f1f4ff;
 	width: 750px;
 	margin-left: auto;
 	margin-right: auto;
