@@ -1,0 +1,86 @@
+
+hr {
+	width: 400px
+}
+
+{overflow: hidden;
+	background-size: auto auto;
+	background-position: center center;
+}
+
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+nav li a{
+	color: #000000;
+}
+nav li a:hover, nav li a.current {
+	color: #000000;
+}
+
+h1 {
+	font-family: Arial;
+	font-size: 30px;
+	color: #65676b;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 0;
+	white-space: nowrap;
+}
+
+#slogan {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.important {
+	font-size: 18px;
+}
+
+body {  
+  background-image: url(http://www.lifestyle9.org/wp-content/uploads/2013/04/what-is-a-healthy-life-style-11.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 83%;
+  background-position: center;
+}
+
+p {
+	font-family: "lucida console", monspace;
+	font-size: 15px;
+}
+a {
+	font-family: lucida;
+	color: #000;
+	font-size: 15px;
+	font-style: italic;
+}
+
+h3{
+	font-family: "proxima-nova-1","proxima-nova-2";
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: 50px;
+	text-align: center;
+}
+
+ul {
+      list-style-type: none;
+
+}
+
+div{
+
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: auto;
+	text-align: center;
+}
+
