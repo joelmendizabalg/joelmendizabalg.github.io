@@ -23,7 +23,7 @@ nav li a:hover, nav li a.current {
 	color: #000000;
 }
 
-h1 {
+header h1 {
 	font-family: Arial;
 	font-size: 30px;
 	color: #65676b;

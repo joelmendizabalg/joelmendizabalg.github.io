@@ -1,0 +1,125 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:600|Lato:900|PT+Serif);
+{	
+	overflow: hidden;
+	background-size: auto auto;
+	background-position: center center;
+}
+
+header {
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+    background-color: #222;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: #e8e4dc;	
+}
+
+#header {
+
+}
+
+nav a {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+	display: inline-block;
+	margin-right: 40px;
+	padding: auto;
+	text-align: center;
+	font: #e8e4dc;
+}
+
+h1 {
+font-family: 'Open Sans', sans-serif; 
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+text-transform: none;
+text-decoration: none;
+letter-spacing: 0em;
+word-spacing: 0em;
+line-height: 1.4;
+}
+
+.important {
+	font-size: 18px;
+}
+
+.textwidget {
+    padding-right: 10%;
+    text-shadow: 0 0 20px;
+    font: #000001;
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+div .textwidget p {
+	font-size: 30px;
+	color: #0d0d0d;
+	max-width: 220px;
+	font-size: 30px;
+	line-height: 1.2;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	background-color: #0274be;
+	padding: auto;
+	text-shadow: none;
+
+}
+
+body {  
+  background-image: url(http://www.lifestyle9.org/wp-content/uploads/2013/04/what-is-a-healthy-life-style-11.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-position: center;
+  padding: auto;
+}
+
+h2 p {
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+}
+a {
+	font-family: 'Open Sans', sans-serif; 
+	color: #e8e4dc;
+	font-size: 15px;
+	font-style: normal;
+}
+
+h2, {
+	font-family: 'PT Serif', serif;
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: 50px;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'PT Serif', serif;
+	font-weight: normal;
+}
+
+ul {
+      list-style-type: none;
+}
+
+li {
+	font-family: 'PT Serif', serif;
+	font-weight: normal;
+	text-align: left;
+}
+
+#readmore {
+	text-align: left;
+}
+
+div {
+
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: auto;
+	text-align: center;
+}
+
